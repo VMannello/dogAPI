@@ -1,9 +1,9 @@
 # dogAPI
-A basic REST API written in Python using Flask.
+A basic REST API developed in Python using Flask.
 
 ## Files
 * `Pipfile` - dependency list for pipenv
-* `Pipfile.lock` - confirm requirements are correct version
+* `Pipfile.lock` - confirm requirements are the correct version
 * `dogAPI.py` - simple restful API
 * `dogs.json` - JSON formatted local datastore
 * `README.md` - A quick explanation
