@@ -9,7 +9,7 @@ api = Api(app)
 #Read function
 def load_data(f=DB_FILENAME):
     """
-    Opens local json file and writes db back
+    Opens local json file and returns db
     """
     try:
         with open(f, 'r') as f:
